@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f22d2af4
 license: CC0-1.0
+name: train
 type: townname
+url: https://github.com/keshav-bajaj/train
 version: 6
